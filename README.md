@@ -1,1 +1,1 @@
-# RohitKandukuri-2024_ia651_Kandukuri_Dantuluri
+# 2024_ia651_Kandukuri_Dantuluri
