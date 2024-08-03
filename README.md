@@ -26,7 +26,7 @@
 
 ### Dimensionality Reduction (PCA)
 - PCA reduces the number of variables into principal components, simplifying visualizations and potentially enhancing model performance.
-<img src=“BP1.png”>
+
 ## 4. Feature Engineering
 
 ### Dummy Variable Adjustment
@@ -62,3 +62,5 @@ This project uses a comprehensive approach to predict song popularity, applying 
 
 # Conclusion
 This project uses a comprehensive approach to predict song popularity, applying rigorous data handling and advanced modeling techniques.
+
+<img src = " BP1.png">
