@@ -54,6 +54,28 @@
 ### Hyperparameter Tuning
 - *GridSearchCV* optimizes model parameters, enhancing model performance based on systematic parameter testing and cross-validation.
 
+## Model Evaluation Metrics and Feature Importances
+
+### Mean Squared Error
+The Mean Squared Error (MSE) of the model is `219.7048`.
+
+### Feature Importances
+| Feature            | Importance |
+|--------------------|------------|
+| duration_ms        | 0.103974   |
+| danceability       | 0.103234   |
+| energy             | 0.092952   |
+| loudness           | 0.098522   |
+| tempo              | 0.103509   |
+| explicit           | 0.007343   |
+| mode               | 0.009830   |
+| speechiness        | 0.100313   |
+| acousticness       | 0.109582   |
+| instrumentalness   | 0.073027   |
+| liveness           | 0.089356   |
+| valence            | 0.101822   |
+| time_signature     | 0.006537   |
+
 ## 6. Feature Importance and Model Insights
 
 ### Determining Feature Importance
