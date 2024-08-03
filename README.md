@@ -26,7 +26,7 @@
 
 ### Dimensionality Reduction (PCA)
 - PCA reduces the number of variables into principal components, simplifying visualizations and potentially enhancing model performance.
-
+<img src=“PCA.png”>
 ## 4. Feature Engineering
 
 ### Dummy Variable Adjustment
