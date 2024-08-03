@@ -24,6 +24,16 @@
 - *Box Plots:* Analyze the distribution of danceability across different genres and its variation with song popularity.
 - *Correlation Analysis:* A heatmap visualizes correlations among numerical features, providing insights into potentially predictive or redundant features.
 
+<img src="BP1.png">
+<img src="BP2.png">
+<img src="BP3.png">
+<img src="CorrPlot.png">
+<img src="Matrix1.png">
+<img src="Matrix2.png">
+<img src="PCA.png">
+<img src="Pairplot.png">
+<img src="scatterplot.png">
+
 ### Dimensionality Reduction (PCA)
 - PCA reduces the number of variables into principal components, simplifying visualizations and potentially enhancing model performance.
 
@@ -63,4 +73,4 @@ This project uses a comprehensive approach to predict song popularity, applying 
 # Conclusion
 This project uses a comprehensive approach to predict song popularity, applying rigorous data handling and advanced modeling techniques.
 
-<img src = " BP1.png">
+
